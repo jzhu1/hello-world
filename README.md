@@ -1,3 +1,4 @@
 # hello-world - Welcome jzhu1
-first time to GitHub
-this is edition of Hello World
+
+I am a new to GitHub. I dod like to learn about GitHub in more details and become a profesional on the field
+
